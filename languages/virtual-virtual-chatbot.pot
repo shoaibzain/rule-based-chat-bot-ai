@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: virtual-chatbot 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-02 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Chatbot Questions and Answers"
+msgstr ""
+
+msgid "Virtual Chatbots"
+msgstr ""
+
+msgid "All Chatbots"
+msgstr ""
+
+msgid "Add New Chatbot"
+msgstr ""
+
+msgid "Edit Chatbot"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Add Question and Answer"
+msgstr ""
+
+msgid "An error occurred"
+msgstr ""
+
+msgid "Request handled successfully."
+msgstr ""
