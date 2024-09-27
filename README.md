@@ -64,6 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Releases
 
 For a complete release history and details on updates, please refer to the [RELEASES.md](RELEASES.md) file.
-```
 
-Feel free to replace `yourusername` with your actual GitHub username and modify any sections to better fit your plugin’s specifics!
